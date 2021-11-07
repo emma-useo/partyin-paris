@@ -1,0 +1,40 @@
+/* Colors and fonts*/
+
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@100&family=Lobster&display=swap");
+@import url("components/buttons.css");
+@import url("components/card.css");
+@import url("components/lists.css");
+@import url("components/text.css");
+@import url("components/images.css");
+@import url("components/banner.css");
+@import url("components/topnav.css");
+@import url("components/avatar.css");
+@import url("components/footer.css");
+
+body {
+font-family: lato, sans-serif;
+color: rgb(0, 0, 0);
+font-size: 15px;
+text-align: justify;
+background-color: rgba(255, 181, 54, 0.56);
+}
+
+h1, h2, h3 {
+  font-family: lobster, cursive;
+  /* font-weight: bold; */
+}
+
+h1 {
+  font-size: 30px;
+}
+h2 {
+  font-size: 25px;
+}
+h3 {
+  font-size: 14px;
+}
+
+.background-white {
+  background-color: white;
+}
+

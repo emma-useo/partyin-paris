@@ -1,0 +1,24 @@
+.img-circle {
+  border-radius: 50%;
+  width: 170px;
+}
+
+
+#text-center {
+  text-align: center;
+}
+
+.list-inline{
+  list-style: none;
+  padding-left: 10px;
+}
+
+.img-rectangle {
+  width: 250px;
+  border-radius: 30%;
+  float: left;
+  align-items: center;
+  justify-content: space-between;
+  justify-content: space-around;
+  padding: 50px;
+}

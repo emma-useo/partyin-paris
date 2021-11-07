@@ -1,0 +1,57 @@
+
+
+.home-banner {
+  background-image:linear-gradient(rgba(255,255,255,0.3), rgba(255,255,255,0.56)), url('../../images/home1.jpg');
+  padding: 200px 0px;
+  background-size: cover;
+  background-position: center;
+}
+
+.home-banner img {
+  width: 250px;
+  position: absolute;
+  bottom: 40px;
+}
+
+
+.bar-banner {
+  background-image:linear-gradient(rgba(255,255,255,0.3), rgba(255,255,255,0.56)), url('../../images/bar6.jpg');
+  padding: 200px 0px;
+  background-size: cover;
+  background-position: center;
+}
+
+.bar-banner, .concert-banner h1 {
+ color: #FFB536;
+ text-align: right;
+ padding-right: 30px;
+}
+
+.bar-banner img {
+  width: 190px;
+  position: absolute;
+  top: -250px
+  padding-left:  0px;
+}
+
+
+.concert-banner {
+  background-image:linear-gradient(rgba(255,255,255,0.3), rgba(255,255,255,0.56)), url('../../images/backconcert.jpg');
+  padding: 200px 0px;
+  background-size: cover;
+  background-position: center;
+}
+
+
+.concert-banner img {
+  width: 190px;
+  position: absolute;
+  top: -250px
+}
+
+.banner3 img {
+  width: 190px;
+  position: absolute;
+  top: 30px;
+}
+

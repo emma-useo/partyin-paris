@@ -1,0 +1,24 @@
+
+.btn-ovalorange {
+  background-color: #FFB536 ;
+  color: black;
+  padding: 10px 15px;
+  border-radius: 10px;
+}
+
+.btn-ovalorange:hover {
+  color: white;
+  font-size: 14px;
+}
+
+.btn-rectangleorange {
+    background-color: #FFB536 ;
+  color: black;
+  border: 1px solid black;
+  padding: 10px
+}
+
+.btn-rectangleorange:hover {
+  color: white;
+  font-size: 14px;
+}
